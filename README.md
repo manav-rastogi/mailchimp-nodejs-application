@@ -1,2 +1,1 @@
-# newsletter-application
-Smit Chawda's news letter application
+# node.js application
